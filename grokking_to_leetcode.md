@@ -76,14 +76,14 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * Next question is the same, but connect end nodes to the next level instead of null
 * https://leetcode.com/problems/binary-tree-right-side-view/
 
-8. Pattern: Tree Depth First Search
-9. Pattern: Two Heaps
-10. Pattern: Subsets
-11. Pattern: Modified Binary Search
-12. Pattern: Bitwise XOR
-13. Pattern: Top 'K' elements
-14. Pattern: K-way merge
-15. Pattern: 0/1 Knapsack
-16. Pattern: Topological Sort
-17. 
-https://leetcode.com/problems/kth-largest-element-in-an-array/
+## Pattern: Tree Depth First Search
+## Pattern: Two Heaps
+## Pattern: Subsets
+## Pattern: Modified Binary Search
+## Pattern: Bitwise XOR
+## Pattern: Top 'K' elements
+## Pattern: K-way merge
+## Pattern: 0/1 Knapsack
+## Pattern: Topological Sort
+## Misc
+* https://leetcode.com/problems/kth-largest-element-in-an-array/
