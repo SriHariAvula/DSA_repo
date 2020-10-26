@@ -1,10 +1,10 @@
-****GROKKING NOTES****
+# GROKKING NOTES
 
 I liked the way Grokking the coding interview organized problems into learnable patterns. However, the course is expensive and the majority of the time the problems are copy-pasted from leetcode. As the explanations on leetcode are usually just as good, the course really boils down to being a glorified curated list of leetcode problems.
 
 So below I made a list of leetcode problems that are as close to grokking problems as possible.
 
-1. Pattern: Sliding Window
+## Pattern: Sliding Window
 
 * https://leetcode.com/problems/maximum-subarray/ # Close enough
 * https://leetcode.com/problems/minimum-size-subarray-sum/
@@ -18,7 +18,7 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/minimum-window-substring/
 * https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
-2. Pattern: Two Pointers
+## Pattern: Two Pointers
 
 * https://leetcode.com/problems/two-sum/
 * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
@@ -32,7 +32,7 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/backspace-string-compare/
 * https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
-3. Pattern: Fast & Slow pointers
+## Pattern: Fast & Slow pointers
 * https://leetcode.com/problems/linked-list-cycle/
 * https://leetcode.com/problems/linked-list-cycle-ii/
 * https://leetcode.com/problems/happy-number/
@@ -41,7 +41,7 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/reorder-list/
 * https://leetcode.com/problems/circular-array-loop/
 
-4. Pattern: Merge Intervals
+## Pattern: Merge Intervals
 * https://leetcode.com/problems/merge-intervals/
 * https://leetcode.com/problems/insert-interval/
 * https://leetcode.com/problems/interval-list-intersections/
@@ -49,7 +49,7 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * Could not find equivalent. Given a list of intervals with values, find the peak sum (i.e. if intervals are overlapping, sum their values)
 * https://leetcode.com/problems/employee-free-time/
 
-5. Pattern: Cyclic Sort
+## Pattern: Cyclic Sort
 
 * Couldn't find equivalent for the first question. The second question below encompasses the first one though. See https://leetcode.com/problems/missing-number/discuss/859510/C%2B%2B-O(N)-O(1)-using-Cyclic-Sort for how grokking the coding interview approached these problems. It uses the fact that we can sort the array in O(n) without comparison operators
 * https://leetcode.com/problems/missing-number/
@@ -59,14 +59,14 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/first-missing-positive/
 * https://leetcode.com/problems/kth-missing-positive-number/
 
-6. Pattern: In-place Reversal of a LinkedList
+## Pattern: In-place Reversal of a LinkedList
 * https://leetcode.com/problems/reverse-linked-list/
 * https://leetcode.com/problems/reverse-linked-list-ii/
 * https://leetcode.com/problems/reverse-nodes-in-k-group/
 * Next question is the same, but alternate each subgroup
 * https://leetcode.com/problems/rotate-list/
 
-7. Pattern: Tree Breadth First Search
+## Pattern: Tree Breadth First Search
 * https://leetcode.com/problems/binary-tree-level-order-traversal/
 * https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 * https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
