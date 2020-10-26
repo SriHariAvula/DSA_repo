@@ -137,7 +137,12 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/maximum-frequency-stack/
 
 ## Pattern: K-way merge
-todo
+* https://leetcode.com/problems/merge-k-sorted-lists/
+* Same as previous, but return the Kth smallest number
+* https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+* https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+* https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ small difference, grokking has different sort order and wants the largest
+
 ## Pattern: 0/1 Knapsack
 * https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60
 * https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx or https://leetcode.com/problems/partition-equal-subset-sum/
