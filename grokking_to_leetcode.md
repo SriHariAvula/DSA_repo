@@ -77,9 +77,33 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/binary-tree-right-side-view/
 
 ## Pattern: Tree Depth First Search
+* https://leetcode.com/problems/path-sum/
+* https://leetcode.com/problems/path-sum-ii/
+* https://leetcode.com/problems/sum-root-to-leaf-numbers/
+* https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
+* https://leetcode.com/problems/path-sum-iii/
+* https://leetcode.com/problems/diameter-of-binary-tree/
+* https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
 ## Pattern: Two Heaps
+* https://leetcode.com/problems/find-median-from-data-stream/
+* https://leetcode.com/problems/sliding-window-median/
+* https://leetcode.com/problems/ipo/
+* https://leetcode.com/problems/find-right-interval/
+
 ## Pattern: Subsets
+* https://leetcode.com/problems/subsets/
+* https://leetcode.com/problems/subsets-ii/
+* https://leetcode.com/problems/permutations/
+* https://leetcode.com/problems/letter-case-permutation/
+* https://leetcode.com/problems/generate-parentheses/
+* https://leetcode.com/problems/generalized-abbreviation/
+* https://leetcode.com/problems/different-ways-to-add-parentheses/
+* https://leetcode.com/problems/unique-binary-search-trees-ii/
+* https://leetcode.com/problems/unique-binary-search-trees/
+
 ## Pattern: Modified Binary Search
+
 ## Pattern: Bitwise XOR
 ## Pattern: Top 'K' elements
 ## Pattern: K-way merge
