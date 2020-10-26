@@ -125,7 +125,13 @@ todo
 ## Pattern: K-way merge
 todo
 ## Pattern: 0/1 Knapsack
-todo
+* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60
+* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx or https://leetcode.com/problems/partition-equal-subset-sum/
+* https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR
+* https://leetcode.com/problems/last-stone-weight-ii/ similar concept, but problem description is more abstract.
+* https://leetcode.com/problems/combination-sum-ii/ close enough
+* https://leetcode.com/problems/target-sum/
+
 ## Pattern: Topological Sort
 * First problem is identical to the following three
 * https://leetcode.com/problems/course-schedule/
