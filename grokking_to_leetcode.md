@@ -121,7 +121,21 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://leetcode.com/problems/flipping-an-image/
 
 ## Pattern: Top 'K' elements
-todo
+* Same as second question, but the first Grokking question wants the top K instead of the bottom K
+* https://leetcode.com/problems/kth-largest-element-in-an-array
+* https://leetcode.com/problems/k-closest-points-to-origin/
+* https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+* https://leetcode.com/problems/top-k-frequent-elements/
+* https://leetcode.com/problems/sort-characters-by-frequency/
+* https://leetcode.com/problems/kth-largest-element-in-a-stream/
+* https://leetcode.com/problems/find-k-closest-elements/
+* https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/ closest leetcode or https://www.geeksforgeeks.org/maximum-distinct-elements-removing-k-elements/ for exact
+* https://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/ no leetcode equivalent found
+* https://leetcode.com/problems/reorganize-string/
+* https://leetcode.com/problems/rearrange-string-k-distance-apart/
+* https://leetcode.com/problems/task-scheduler/
+* https://leetcode.com/problems/maximum-frequency-stack/
+
 ## Pattern: K-way merge
 todo
 ## Pattern: 0/1 Knapsack
