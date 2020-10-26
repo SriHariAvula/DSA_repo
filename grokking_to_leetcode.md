@@ -115,9 +115,25 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * Similar to previous, but find the number of rotations of the array.
 
 ## Pattern: Bitwise XOR
+* https://leetcode.com/problems/single-number/
+* https://leetcode.com/problems/single-number-iii/
+* https://leetcode.com/problems/complement-of-base-10-integer/
+* https://leetcode.com/problems/flipping-an-image/
+
 ## Pattern: Top 'K' elements
+todo
 ## Pattern: K-way merge
+todo
 ## Pattern: 0/1 Knapsack
+todo
 ## Pattern: Topological Sort
+* First problem is identical to the following three
+* https://leetcode.com/problems/course-schedule/
+* https://leetcode.com/problems/course-schedule-ii/ 
+* Same as above, but return all instead of any
+* https://leetcode.com/problems/alien-dictionary/
+* https://leetcode.com/problems/sequence-reconstruction/description/
+* https://leetcode.com/problems/minimum-height-trees/
+
 ## Misc
 * https://leetcode.com/problems/kth-largest-element-in-an-array/
