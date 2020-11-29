@@ -148,7 +148,7 @@ So below I made a list of leetcode problems that are as close to grokking proble
 * https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx or https://leetcode.com/problems/partition-equal-subset-sum/
 * https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3j64vRY6JnR
 * https://leetcode.com/problems/last-stone-weight-ii/ similar concept, but problem description is more abstract.
-* https://leetcode.com/problems/combination-sum-ii/ close enough
+* https://leetcode.com/problems/combination-sum-ii/ similar, but return the number of combinations instead of the combinations
 * https://leetcode.com/problems/target-sum/
 * BONUS : Not in grokking, but I still found this very useful https://leetcode.com/problems/ones-and-zeroes/
 
