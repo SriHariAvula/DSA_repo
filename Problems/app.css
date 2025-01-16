@@ -1,3 +1,7 @@
 body {
     background-color: #219ebc;
 }
+
+.section {
+    border: 2px black solid;
+}
